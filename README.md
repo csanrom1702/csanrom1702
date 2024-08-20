@@ -2,11 +2,11 @@
 
 **Desarrollador Web FullStack** 💻 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.systemplus.com.co%2Fcategory%2Fdesarrollo-web%2F&psig=AOvVaw0YAlnlEyhydbPhtvunRcKz&ust=1724261269088000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiDmoaMhIgDFQAAAAAdAAAAABAh" 
+<img src="./images/diseno-web.png" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
 </p>
 
-Especialmente interesada en el desarrollo de software y actualmente impartiendo módulos de desarrollo en los ciclos formativos de Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma.
+Especialmente interesado en el Frontend del desarrollo web, aunque altamente capacitado para desarrollar en el backend con muchas de las tecnologías punteras en el sector.
 
 El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos educativos. Si dudas, contacta.
 

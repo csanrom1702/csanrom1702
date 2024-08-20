@@ -8,7 +8,7 @@
 
 Especialmente interesado en el Frontend del desarrollo web, aunque altamente capacitado para desarrollar en el backend con muchas de las tecnologías punteras en el sector.
 
-El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos educativos. Si dudas, [contacta](mailto:crolyx16@gmail.com).
+El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos educativos. Si dudas, contacta a este mail: crolyx16@gmail.com).
 
 
 ## Contacto

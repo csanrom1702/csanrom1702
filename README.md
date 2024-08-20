@@ -42,7 +42,3 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-white?style=for-the-badge&logo=scrum)
-
-
-## 📈 Trabajando en...
-![](./profile-3d-contrib/profile-season-animate.svg)
